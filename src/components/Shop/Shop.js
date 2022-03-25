@@ -2,6 +2,7 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
 import Products from '../Products/Products';
+import Summary from '../Summary/Summary';
 import "./Shop.css"
 
 const Shop = () => {
@@ -31,11 +32,7 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-                <h4>Order Summary</h4>
-                <div>
-                    <img src={summary.image} alt="" />
-                    <p>summary:{summary.phone_name}</p>
-                </div>
+                <Summary summary={summary}></Summary>
             </div>
         </div>
     );
