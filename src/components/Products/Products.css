@@ -1,0 +1,16 @@
+.product{
+    box-shadow: 10px 10px 30px gray;
+    border-image-slice: 1;
+    padding: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.btn{
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px 40px;
+    border: none;
+}
