@@ -31,7 +31,8 @@ const Shop = () => {
                     </Products>)
                 }
             </div>
-            <div className="cart-container">
+            <div className="summary-container">
+
                 <Summary summary={summary}></Summary>
             </div>
         </div>
