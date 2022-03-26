@@ -82,26 +82,5 @@
         "price": 1000,
         "id": "apple_iphone_11-9848",
         "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
-    },
-    {
-        "brand": "Apple ",
-        "phone_name": "iPhone XS Max",
-        "price": 1070,
-        "id": "apple_iphone_xs_max-9319",
-        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg"
-    },
-    {
-        "brand": "Apple ",
-        "phone_name": "iPhone XR",
-        "price": 1055,
-        "id": "apple_iphone_xr-9320",
-        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg"
-    },
-    {
-        "brand": "Apple ",
-        "phone_name": "iPhone XS",
-        "price": 1000,
-        "id": "apple_iphone_xs-9318",
-        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg"
     }
 ]
