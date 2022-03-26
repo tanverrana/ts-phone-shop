@@ -4,13 +4,17 @@ import "./Summary.css";
 const Summary = (props) => {
     const { summary } = props;
     console.log(summary);
-    const name = summary.map(product => product.phone_name);
+    const removeProduct = () => {
+
+    }
     return (
         <div>
             <h2>Order Summary</h2>
-            <h5 className="phone">Phone Name:{name}</h5>
+            {
+                summary.map(product => <h5 className="phone">{product.phone_name}</h5>)
+            }
             <button className="chose-btn">Chose One For Me</button>
-            <button className="remove-btn">Chose Again</button>
+            <button onClick={removeProduct} className="remove-btn">Chose Again</button>
         </div>
     );
 };
