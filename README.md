@@ -1,5 +1,5 @@
 # TS Iphone Shop
-Live Site Link [Click Here] (https://tanversobur.com/).
+Live Site Link [Click Here](https://tanversobur.com).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
