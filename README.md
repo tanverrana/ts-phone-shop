@@ -1,5 +1,5 @@
 # TS Iphone Shop
-Live Site Link [Click Here](https://tanversobur.com).
+Live Site Link [Click Here](https://ts-iphone-shop.netlify.app/).
 
 
 ### Getting Started with Create React App
