@@ -1,12 +1,19 @@
 # TS Iphone Shop
+<<<<<<< HEAD
 If you want to see live site then [Click Here](https://ts-iphone-shop.netlify.app/).
 
 
 ## Getting Started with Create React App
+=======
+Live Site Link [Click Here](https://ts-iphone-shop.netlify.app/).
+
+
+### Getting Started with Create React App
+>>>>>>> 1077721844acb8b495b05dd43971b25400adf1f0
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
