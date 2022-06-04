@@ -9,7 +9,7 @@ const Summary = (props) => {
     }
     return (
         <div>
-            <h2>Order Summary</h2>
+            <h2>Order Summary:</h2>
             {
                 summary.map(product => <h5 className="phone">{product.phone_name}</h5>)
             }
